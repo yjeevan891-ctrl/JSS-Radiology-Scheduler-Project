@@ -1,0 +1,5 @@
+{
+  "name": "JSS Hospital Radiology Scheduler",
+  "description": "An advanced scheduling application for the JSS Hospital Mysuru Radiology Department. Patients can book appointments for various scans, and the system intelligently allocates time slots across 6 available machines. The app also displays real-time machine status and daily patient appointments.",
+  "requestFramePermissions": []
+}
